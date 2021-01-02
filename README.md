@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**V3ronez/V3ronez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't really know how u got here, but I will try to show a little bit about myself for you.
 
-Here are some ideas to get you started:
+My name is Henrique Veronez but on the internet I am better known as V3ronez or just "V3". I'm backend dev and I tell bad jokes 🤡.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Detailed information
+
+* **Name**: Henrique Veronez
+* **Age**: 22
+* **Living in**: Goiânia, Brazil
+* **Stack**: NodeJS - Bootstrap - SQL - MongoDB
+* **University**: Currently in the third period of Analysis and Systems Development 💻.
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/v3ronez/)
