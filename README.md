@@ -12,4 +12,4 @@ My name is Henrique Veronez but on the internet I am better known as V3ronez or 
 * **Stack**: NodeJS - Bootstrap - SQL - MongoDB
 * **University**: Currently in the third period of Analysis and Systems Development 💻.
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/v3ronez/)](https://www.instagram.com/v3ronez/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-grey?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/v3ronez/)](https://www.instagram.com/v3ronez/)
