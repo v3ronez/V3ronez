@@ -2,7 +2,7 @@
 
 I don't really know how u got here, but I will try to show a little bit about myself for you.
 
-My name is Henrique Veronez but on the internet I am better known as V3ronez or just "V3". I'm BackEnd dev jr and I tell bad jokes 🤡.
+My name is Henrique Veronez but on the internet I am better known as V3ronez or just "V3". I'm dev jr and I tell bad jokes 🤡.
 
 ## Detailed information
 
