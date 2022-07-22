@@ -15,7 +15,7 @@ My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process
 
 ## Find me:
 
-<a target='_blank' href="https://www.instagram.com/notveronez">
+<a target='_blank' href="https://www.instagram.com/v3ronez">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a target='_blank' href="https://twitter.com/v3ronez_">
