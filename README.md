@@ -13,7 +13,8 @@ My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process
 * **Stack**: PHP - Laravel - NodeJS - Bootstrap - SQL
 * **University**: Software Development - UNIP (2022)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v3ronez)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v3ronez&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
