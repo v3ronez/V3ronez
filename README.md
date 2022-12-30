@@ -17,5 +17,5 @@ My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process
 * **Name**: Henrique Veronez
 * **Age**: 24
 * **Living in**: Goiânia - GO, Brazil
-* **Stack**: Javascript - Typescript - NodeJs - PHP <Laravel> - Bootstrap - SQL - NoSQL
+* **Stack**: Javascript - Typescript - NodeJs - PHP (Laravel) - Bootstrap - SQL - NoSQL
 * **University**: Software Development - UNIP (2022)
