@@ -10,7 +10,7 @@
 I don't really know how u got here, but I will try to show a little bit about myself for you.
 
 ## Public information
-My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process to be the best Golang dev on my street.
+My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process to be the best dev on my street.
 
 ### Detailed information
 
