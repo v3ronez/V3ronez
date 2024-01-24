@@ -10,12 +10,12 @@
 I don't really know how u got here, but I will try to show a little bit about myself for you.
 
 ## Public information
-My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process to be the best php dev on my street.
+My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process to be the best dev on my street.
 
 ### Detailed information
 
 * **Name**: Henrique Veronez
 * **Age**: 25
 * **Living in**: Goiânia - GO, Brazil
-* **Stack**: PHP(Vanilla, Laravel, Symfony, Lumen) - Javascript/Typescript - NodeJs - AWS - SQL - NoSQL
+* **Stack**: PHP<Laravel, Symfony, Lumen> - Javascript/Typescript - NodeJs - AWS - SQL - NoSQL
 * **University**: Software Development - UNIP (2022)
