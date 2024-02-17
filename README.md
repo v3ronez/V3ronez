@@ -21,4 +21,4 @@ My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process
 * **University**: Software Development - UNIP (2022)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v3ronez&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v3ronez&hide_progress=false)
