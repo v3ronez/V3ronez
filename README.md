@@ -19,6 +19,3 @@ My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process
 * **Living in**: Goiânia - GO, Brazil
 * **Stack**: PHP<Laravel, Symfony, Lumen> - Javascript/Typescript - NodeJs - AWS - SQL - NoSQL
 * **University**: Software Development - UNIP (2022)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v3ronez&layout=compact&theme=radical)
