@@ -10,7 +10,7 @@
 I don't really know how u got here, but I will try to show a little bit about myself for you.
 
 ## Public information
-My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process to be the best on my street.
+My name is Henrique Veronez, I currently live in Goiânia, Brazil and in process to be the best shaco players on my street.
 
 ### Detailed information
 
