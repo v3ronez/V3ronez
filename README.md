@@ -10,7 +10,7 @@
 I don't really know how u got here, but I will try to show a little bit about myself for you.
 
 ## Public information
-My name is Henrique Veronez, I currently live in Goiânia, Brazil. I love build random stuff (mostly CLI/API using Golang and web app using Laravel). Take a look into my social medias to see more. That`s all for now =}
+My name is Henrique Veronez, I currently live in Goiânia, Brazil. I like to build random stuff. Take a look into my social medias to see more. That`s all for now =}
 
 ### Detailed information
 
