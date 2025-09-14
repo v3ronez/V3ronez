@@ -10,5 +10,5 @@ My name is Henrique Veronez, I currently live in Goiânia, Brazil. I like to bui
 * **Name**: Henrique Veronez
 * **Age**: 26
 * **Living in**: Goiânia - GO, Brazil
-* **Stack**: PHP<Laravel, Symfony, Lumen> - Golang - Javascript/Typescript - NodeJs - AWS - SQL - NoSQL
+* **Stack**: PHP<Laravel, Symfony> - Golang - Rust - NodeJs - AWS - SQL - NoSQL
 * **University**: Software Development - UNIP (2022)
